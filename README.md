@@ -1,2 +1,2 @@
-# Week1
+# Week
 Green house gas emission prediction
